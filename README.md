@@ -1,7 +1,7 @@
 
 Ejercicio práctico de análisis de datos con Python, enfocado en manipulación de DataFrames y visualizaciones.
 
-# Análisis de Ventas de Electrónica con Pandas y Matplotlib
+# Análisis de Ventas (con csv) con Librerías Pandas y Matplotlib
 Objetivos del Proyecto:
 - Cargar y explorar datos de ventas de una tienda de electrónica.
 - Aplicar filtros, agrupaciones y cálculos de columnas derivadas.
