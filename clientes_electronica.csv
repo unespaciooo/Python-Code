@@ -1,0 +1,51 @@
+Nombre,Apellido,Edad,Ciudad,ID Cliente,Producto Comprado,Precio Producto,Cantidad
+Ana,Pérez,31,Córdoba,CUST0001,Smartphone X,237.36,3
+Carlos,Díaz,58,San Miguel de Tucumán,CUST0002,Auriculares Bluetooth,140.98,1
+Luis,Martínez,63,San Miguel de Tucumán,CUST0003,Reloj Inteligente,600.44,1
+Ana,García,24,Mendoza,CUST0004,Auriculares Bluetooth,830.79,4
+Maria,López,18,Córdoba,CUST0005,Smartphone X,1367.89,4
+Carlos,Rodríguez,37,Córdoba,CUST0006,Parlante Portátil,768.52,4
+Pedro,Rodríguez,56,Salta,CUST0007,Cámara Digital,813.84,4
+Sofia,Fernández,48,Mendoza,CUST0008,"Smart TV 55""",325.68,3
+Pedro,González,58,San Miguel de Tucumán,CUST0009,"Smart TV 55""",1017.36,2
+Luis,Martínez,38,Rosario,CUST0010,Tablet A,1239.1,2
+Pedro,Martínez,34,Salta,CUST0011,Auriculares Bluetooth,1444.79,3
+Pedro,García,44,Mendoza,CUST0012,Impresora Multifunción,1141.31,1
+Luis,Díaz,20,Mar del Plata,CUST0013,Reloj Inteligente,680.38,4
+Elena,Sánchez,29,Buenos Aires,CUST0014,Laptop Pro,672.69,1
+Pedro,González,42,Buenos Aires,CUST0015,Smartphone X,140.25,3
+Carlos,Rodríguez,60,Mendoza,CUST0016,Auriculares Bluetooth,484.61,2
+Maria,Pérez,24,Santa Fe,CUST0017,Cámara Digital,1420.0,3
+Juan,González,37,Corrientes,CUST0018,Smartphone X,138.58,3
+Carlos,Rodríguez,45,Mar del Plata,CUST0019,Smartphone X,981.44,2
+Juan,Díaz,49,Rosario,CUST0020,Smartphone X,214.93,2
+Ana,Martínez,53,Mendoza,CUST0021,Smartphone X,1171.91,4
+Laura,Sánchez,29,Santa Fe,CUST0022,"Smart TV 55""",339.18,2
+Pedro,López,25,Buenos Aires,CUST0023,Consola de Videojuegos,1220.08,4
+Laura,Fernández,36,Rosario,CUST0024,Parlante Portátil,1185.52,4
+Maria,Ramos,33,Buenos Aires,CUST0025,Cámara Digital,1143.5,3
+Diego,Sánchez,37,San Miguel de Tucumán,CUST0026,"Smart TV 55""",816.24,1
+Pedro,Martínez,44,Santa Fe,CUST0027,Smartphone X,1114.24,4
+Ana,García,58,Santa Fe,CUST0028,Consola de Videojuegos,365.94,4
+Luis,Díaz,57,San Miguel de Tucumán,CUST0029,Consola de Videojuegos,150.29,3
+Laura,Rodríguez,37,Salta,CUST0030,Impresora Multifunción,912.04,1
+Luis,Ramos,30,La Plata,CUST0031,Auriculares Bluetooth,228.09,2
+Sofia,Fernández,37,Corrientes,CUST0032,Consola de Videojuegos,356.96,2
+Sofia,Pérez,52,Salta,CUST0033,Laptop Pro,144.9,3
+Laura,Fernández,47,Buenos Aires,CUST0034,Laptop Pro,790.98,2
+Laura,García,31,Santa Fe,CUST0035,Auriculares Bluetooth,857.55,1
+Laura,Fernández,51,San Miguel de Tucumán,CUST0036,Parlante Portátil,293.55,3
+Sofia,Ramos,51,Buenos Aires,CUST0037,Auriculares Bluetooth,1162.69,3
+Maria,López,56,Santa Fe,CUST0038,Cámara Digital,680.29,4
+Elena,Fernández,36,Salta,CUST0039,Consola de Videojuegos,141.84,2
+Elena,López,24,Corrientes,CUST0040,Tablet A,893.92,2
+Elena,Ramos,50,Mendoza,CUST0041,Consola de Videojuegos,85.72,4
+Carlos,Sánchez,45,Salta,CUST0042,Consola de Videojuegos,1167.29,2
+Elena,González,37,Mar del Plata,CUST0043,Smartphone X,1370.96,1
+Diego,Rodríguez,31,Buenos Aires,CUST0044,Cámara Digital,380.93,2
+Pedro,Ramos,43,Santa Fe,CUST0045,Reloj Inteligente,1446.7,4
+Diego,González,25,Mendoza,CUST0046,Consola de Videojuegos,817.01,3
+Luis,González,19,La Plata,CUST0047,Auriculares Bluetooth,116.86,4
+Laura,Rodríguez,29,La Plata,CUST0048,"Smart TV 55""",400.15,3
+Pedro,López,47,Mendoza,CUST0049,Reloj Inteligente,934.43,1
+Carlos,González,22,Rosario,CUST0050,Tablet A,888.3,2
